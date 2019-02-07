@@ -1,0 +1,47 @@
+/* Jukola Live main CSS
+
+Copyright: Lassi Tanskanen
+*/
+
+/* set a max-width for horizontal fluid layout and make it centered */
+
+@media (min-width: 1400px) {
+
+    .container {
+    max-width: 1320px; /* or 950px */
+  }
+}
+
+@media (min-width: 1600px) {
+
+    .container {
+    max-width: 1520px; /* or 950px */
+  }
+}
+
+video {
+    width: 100%;
+    height: auto;
+}
+
+.row+.row {
+    margin-top: 1rem;
+}
+
+.row-twitter {
+    margin-top: 1rem;
+}
+
+.banner {
+    width: 100%;
+    height: 100px;
+}
+
+.results {
+    height: 880px;
+    background-color: grey;
+}
+
+.logo {
+    height: 56px;
+}
