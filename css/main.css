@@ -1,47 +1,183 @@
-/* Jukola Live main CSS
+/* Jukola Live 2019 */
 
-Copyright: Lassi Tanskanen
-*/
+/* MAIN STYLES */
 
-/* set a max-width for horizontal fluid layout and make it centered */
-
-@media (min-width: 1400px) {
-
-    .container {
-    max-width: 1320px; /* or 950px */
-  }
+body {
+    /*background-image: url('img/bg.jpg');*/
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
 }
 
-@media (min-width: 1600px) {
-
-    .container {
-    max-width: 1520px; /* or 950px */
-  }
-}
-
-video {
-    width: 100%;
-    height: auto;
-}
-
-.row+.row {
-    margin-top: 1rem;
-}
-
-.row-twitter {
-    margin-top: 1rem;
-}
+/* HEADER STYLES */
 
 .banner {
-    width: 100%;
-    height: 100px;
+    min-height: 100px;
+    background-color: #cecece;
+    margin-bottom: -15px;
+}
+
+.title {
+    min-height: 100px;
+    background-color: #cecece;
+    text-align: center;
+    margin-bottom: -15px;
+}
+
+/* CLEAR */
+
+.clearfix:before {
+    content: '.';
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+.clearfix:after {
+    content: '.';
+    display: block;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+
+
+
+/* CONTAINER STYLES */
+
+.page {
+    max-width: 1066px;
+    margin: auto;
+}
+
+.container {
+    margin-top: 0;
+}
+
+.player-placeholder {
+    position: relative;
+    width: 640px;
+    height: 360px;
+    background-color: green;
+    margin-bottom: 10px;
 }
 
 .results {
-    height: 880px;
-    background-color: grey;
+    position: relative;
+    margin-top: -370px;
+    margin-left: 650px;
+    /*background-color: blue;*/
+    min-width: 370px;
+
 }
 
-.logo {
-    height: 56px;
+.results-contents {
+    min-height: 520px;
+}
+
+.twitter-placeholder {
+    /*background-color: brown; */
+    width: 640px;
+    clear: left;
+    float: left;
+}
+
+.twitter-placeholder {
+    min-height: 520px;
+}
+
+/* FOOTER STYLES */
+
+.footer {
+    min-height: 100px;
+    background-color: #777777;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+@media screen and (max-width: 656px) {
+    .header {
+        min-width: 426px;
+    }
+    
+    .page {
+        min-width: 426px;
+    }
+
+    .footer {
+        min-width: 426px;
+    }
+
+    .player-placeholder {
+        width: 426px;
+        height: 240px;
+        margin-left: 50%;
+        left: -213px;
+    }
+
+    .results {
+        clear: both;
+        margin: 10px auto;
+        top: 0;
+        width: 426px;
+        max-width: 426px;
+    }
+
+    .results-content {
+        min-height: 520px;
+    }
+
+    .twitter-placeholder {
+        clear: both;
+        float: none;
+        max-width: 426px;
+        margin: 10px auto;
+        top: 0;
+        width: 426px;
+    }
+
+}
+
+@media screen and (min-height: 630px) and (min-width: 1294px) {
+
+    .page {
+        max-width: 1280px;
+    }
+
+    .player-placeholder {
+        width: 854px;
+        height: 480px;
+    }
+
+    .results {
+        margin-left: 864px;
+        top: -120px;
+    }
+
+    .twitter-placeholder {
+        width: 854px;
+    }
+}
+
+@media screen and (min-height: 980px) and (min-width: 1720px) {
+    
+    .page {
+        max-width: 1706px;
+    }
+
+    .player-placeholder {
+        width: 1280px;
+        height: 720px;
+    }
+
+    .results {
+        margin-left: 1290px;
+        top: -360px;
+    }
+
+    .twitter-placeholder {
+        width: 1280px;
+    }
+
 }

@@ -1,79 +1,104 @@
-
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Jukola Live 2019 - view competition">
     <meta name="author" content="">
-    <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Grid Template for Bootstrap</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-
-    <!--Custom CSS-->
+    <!-- Custom styles-->
     <link href="css/main.css" rel="stylesheet">
 
+    <title>Jukola Live 2019</title>
 
     <!--Dacast player-->
     <script src="//player.dacast.com/js/player.js"></script>
+</head>
 
-  </head>
-
-  <body>
-    <div class="container">
-        <div class="row">
-            <div class="adds">
-                <img src="img/banner2.png" class="banner" alt="Responsive image">
-            </div>
+<body>
+    <div class="header">
+        <div class="banner">
+            MAINOKSET
         </div>
-        <div class="row">
-                <img src="img/2019_logo_150.png" class="img-fluid logo" alt="Responsive image">
-            <h1>Jukola Live</h1>
-            <p class="lead">Watch online!</p>
+        <div class="title">
+            <h1>Jukola Live 2019</h1>
         </div>
-      <div class="row">
-            <div class="col-sm-12 col-md-8">
-
-                <div id="myPlayer">
-                </div>
-
-
-                <!--<script src="https://player.dacast.com/js/player.js" id="1552_f_297509" width="800" height="450" player="theo" class="dacast-video"></script>--->
-                <div class="row row-twitter">
-                    <div class="col twitter">
-                            <a class="twitter-timeline" data-height="500" href="https://twitter.com/JukolanViesti?ref_src=twsrc%5Etfw">Tweets by JukolanViesti</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                    </div>
+    </div>
+    <div class="page">
+        <div class="player-placeholder">
+            <div id="myPlayer"></div>
+        </div>
+        <div class="container clearfix">
+            <div class="twitter-placeholder">
+                <div class="twitter-content">
+                        <a class="twitter-timeline" data-height="550" href="https://twitter.com/JukolanViesti?ref_src=twsrc%5Etfw">Tweets by JukolanViesti</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                 </div>
             </div>
-            
-            <div class="col-4 d-none d-md-block results">
-                Results
+
+            <div class="results">
+                <div class="results-contents">
+                        <iframe id="resultIframe"
+                            title="Results"
+                            width="416"
+                            height="550"
+                            src="http://tulokset.jukola.com/tulokset/en/"></iframe>
+                    </iframe>
+                </div>
             </div>
         </div>
+    </div>
+    <div class="footer">
+        FOOTER
+    </div>
 
-    </div> <!-- /container -->
+
 
     <script>
-            window.addEventListener("load", function(){
-              var w = 800;
-              var h = 450;
-              
-              var CONTENT_ID = "1552_f_297509"
-              var myPlayer = dacast(CONTENT_ID, 'myPlayer', {
-                    height: h,
-                    width: w
-                  });
-      
-                  var playerElement = myPlayer.getElement();
-                  playerElement.style.maxHeight = h + 'px';
-      
-                  window.addEventListener('resize', function() {
-                          playerElement.style.height = window.innerWidth * 0.55 + 'px';
-                  });
+        window.addEventListener("load", function () {
+            var w = 640;
+            var h = 360;
+
+            x = window.innerWidth;
+
+            if (x < 656) {
+                w = 426;
+            } else if (x < 1294) {
+                w = 640;
+            } else if (x < 1720) {
+                w = 854;
+            } else {
+                w = 1280;
+            }
+
+            var CONTENT_ID = "1552_f_297509"
+            var myPlayer = dacast(CONTENT_ID, 'myPlayer', {
+                height: w * 0.5625,
+                width: w
             });
+
+            var playerElement = myPlayer.getElement();
+            //playerElement.style.maxHeight = h + 'px';
+
+            window.addEventListener('resize', function () {
+                if (window.innerWidth < 656) {
+                    playerElement.style.width = 426 + 'px';
+                    playerElement.style.height = 240 + 'px';
+                } else if (window.innerWidth < 1294) {
+                    playerElement.style.width = 640 + 'px';
+                    playerElement.style.height = 360 + 'px';
+                } else if (window.innerWidth < 1720) {
+                    playerElement.style.width = 854 + 'px';
+                    playerElement.style.height = 480 + 'px';
+                } else {
+                    playerElement.style.width = 1280 + 'px';
+                    playerElement.style.height = 720 + 'px';
+                }
+            });
+        });
     </script>
-  </body>
+
+
+</body>
+
 </html>
