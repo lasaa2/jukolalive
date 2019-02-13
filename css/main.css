@@ -10,6 +10,11 @@
 
 /* MAIN STYLES */
 
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     /*background-image: url('img/bg.jpg');*/
     background-repeat: no-repeat;
@@ -23,17 +28,10 @@ body {
 
 /* HEADER STYLES */
 
-.banner {
-    min-height: 100px;
-    background-color: #cecece;
-    margin-bottom: -15px;
-}
-
-.title {
-    min-height: 100px;
-    background-color: #cecece;
-    text-align: center;
-    margin-bottom: -15px;
+.title-placeholder {
+    min-height: 300px;
+    margin-bottom: 10px;
+    border: 1px solid;
 }
 
 /* CLEAR */
@@ -60,10 +58,6 @@ body {
     margin: auto;
 }
 
-.container {
-    margin-top: 0;
-}
-
 .player-placeholder {
     position: relative;
     width: 640px;
@@ -82,7 +76,7 @@ body {
 }
 
 .results-contents {
-    min-height: 520px;
+    min-height: 890px;
 }
 
 .twitter-placeholder {
@@ -101,14 +95,16 @@ body {
     color: #fff;
     background-color: #005EA1;
     margin-top: 10px;
-    margin-bottom: 10px;
     padding: 10px;
 }
-
 
 @media screen and (max-width: 656px) {
     .header {
         min-width: 426px;
+    }
+
+    .title-placeholder {
+        min-height: 100px;
     }
     
     .page {
@@ -165,6 +161,10 @@ body {
         top: -120px;
     }
 
+    .results-contents {
+        min-height: 1010px;
+    }
+
     .twitter-placeholder {
         width: 854px;
     }
@@ -184,6 +184,10 @@ body {
     .results-placeholder {
         margin-left: 1290px;
         top: -360px;
+    }
+
+    .results-contents {
+        min-height: 1250px;
     }
 
     .twitter-placeholder {
