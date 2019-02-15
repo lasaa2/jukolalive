@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Jukola Live 2019 - view competition">
+    <meta name="author" content="">
+
+    <!-- Custom styles-->
+    <link href="css/main.css" rel="stylesheet">
+
+    <title>Jukola Live 2019</title>
+
+    <!--Dacast player-->
+    <script src="//player.dacast.com/js/player.js"></script>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="header">
+        </div>
+        <div class="player">
+            <div id="myPlayer"></div>
+        </div>
+        <div class="results">Results
+                <p>I have some more content in.</p>
+    <p>This makes me taller than 100 pixels.</p>
+        </div>
+        <div class="twitter">Twitter</div>
+        <div class="footer">Footer</div>
+    </div>
+
+    <script>
+            window.addEventListener("load", function () {
+                var h = window.innerWidth * 0.362;
+                
+                if (window.innerWidth < 650) {
+                    h = window.innerWidth *0.52
+                } else {
+                    h = window.innerWidth * 0.362;
+                }
+    
+                var CONTENT_ID = "1552_f_297509"
+                var myPlayer = dacast(CONTENT_ID, 'myPlayer', {
+                    height: h,
+                });
+
+                var playerElement = myPlayer.getElement();
+    
+                window.addEventListener('resize', function () {
+                    if (window.innerWidth < 650) {
+                        playerElement.style.height = window.innerWidth *0.52 + 'px';
+                    } else {
+                        playerElement.style.height = window.innerWidth *0.362 + 'px';
+                    }
+                });
+            });
+        </script>
+
+</body>
+
+</html>

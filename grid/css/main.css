@@ -1,0 +1,76 @@
+/* Main styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 1900px;
+    margin: auto;
+}
+
+/* Grid */
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    column-gap: 10px;
+    row-gap: 1em;
+    grid-auto-rows: minmax(100px, auto);
+    grid-template-areas:
+        "header header"
+        "player results"
+        "twitter results"
+        "footer footer";
+}
+
+
+.wrapper {
+    border: 2px solid #f76707;
+    border-radius: 5px;
+    background-color: #fff4e6;
+}
+
+.wrapper>div {
+    border: 2px solid #ffa94d;
+    border-radius: 5px;
+    background-color: #ffd8a8;
+    padding: 1em;
+    color: #d9480f;
+}
+
+
+.header {
+    grid-area: header;
+}
+
+.player {
+    grid-area: player;
+}
+
+.results {
+    grid-area: results;
+}
+
+.twitter {
+    grid-area: twitter;
+}
+
+.footer {
+    grid-area: footer;
+}
+
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 650px) {
+    .wrapper {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "header"
+            "player"
+            "results"
+            "twitter"
+            "footer";
+    }
+}
