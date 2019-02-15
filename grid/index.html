@@ -17,46 +17,50 @@
 </head>
 
 <body>
+    <div class="header">
+        Header
+    </div>
     <div class="wrapper">
-        <div class="header">
-        </div>
         <div class="player">
             <div id="myPlayer"></div>
         </div>
         <div class="results">Results
-                <p>I have some more content in.</p>
-    <p>This makes me taller than 100 pixels.</p>
+            <p>I have some more content in.</p>
+            <p>This makes me taller than 100 pixels.</p>
         </div>
-        <div class="twitter">Twitter</div>
-        <div class="footer">Footer</div>
+        <div class="twitter">
+            <a class="twitter-timeline" data-theme="dark" data-tweet-limit="5" data-height="300" data-width="auto" data-chrome="nofooter noborders" href="https://twitter.com/JukolanViesti?ref_src=twsrc%5Etfw">Tweets by JukolanViesti</a> 
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
     </div>
+    <div class="footer">Footer</div>
 
     <script>
-            window.addEventListener("load", function () {
-                var h = window.innerWidth * 0.362;
-                
-                if (window.innerWidth < 650) {
-                    h = window.innerWidth *0.52
-                } else {
-                    h = window.innerWidth * 0.362;
-                }
-    
-                var CONTENT_ID = "1552_f_297509"
-                var myPlayer = dacast(CONTENT_ID, 'myPlayer', {
-                    height: h,
-                });
+        window.addEventListener("load", function () {
+            var h = window.innerWidth * 0.362;
 
-                var playerElement = myPlayer.getElement();
-    
-                window.addEventListener('resize', function () {
-                    if (window.innerWidth < 650) {
-                        playerElement.style.height = window.innerWidth *0.52 + 'px';
-                    } else {
-                        playerElement.style.height = window.innerWidth *0.362 + 'px';
-                    }
-                });
+            if (window.innerWidth < 650) {
+                h = window.innerWidth * 0.52
+            } else {
+                h = window.innerWidth * 0.362;
+            }
+
+            var CONTENT_ID = "1552_f_297509"
+            var myPlayer = dacast(CONTENT_ID, 'myPlayer', {
+                height: h,
             });
-        </script>
+
+            var playerElement = myPlayer.getElement();
+
+            window.addEventListener('resize', function () {
+                if (window.innerWidth < 650) {
+                    playerElement.style.height = window.innerWidth * 0.52 + 'px';
+                } else {
+                    playerElement.style.height = window.innerWidth * 0.362 + 'px';
+                }
+            });
+        });
+    </script>
 
 </body>
 

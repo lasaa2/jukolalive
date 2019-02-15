@@ -5,11 +5,6 @@
     box-sizing: border-box;
 }
 
-body {
-    max-width: 1900px;
-    margin: auto;
-}
-
 /* Grid */
 
 .wrapper {
@@ -19,10 +14,10 @@ body {
     row-gap: 1em;
     grid-auto-rows: minmax(100px, auto);
     grid-template-areas:
-        "header header"
         "player results"
-        "twitter results"
-        "footer footer";
+        "twitter results";
+    max-width: 1900px;
+    margin: auto;
 }
 
 
@@ -42,7 +37,7 @@ body {
 
 
 .header {
-    grid-area: header;
+    min-height: 100px;
 }
 
 .player {
@@ -58,7 +53,10 @@ body {
 }
 
 .footer {
-    grid-area: footer;
+    margin-top: 40px;
+    min-height: 150px;
+    background-color: #005EA1;
+    color: #fff;
 }
 
 
@@ -67,10 +65,12 @@ body {
     .wrapper {
         grid-template-columns: 1fr;
         grid-template-areas:
-            "header"
             "player"
             "results"
-            "twitter"
-            "footer";
+            "twitter";
+    }
+
+    .footer {
+        min-height: 50px;
     }
 }
