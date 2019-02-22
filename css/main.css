@@ -1,203 +1,62 @@
 /* Jukola Live 2019 */
 
-/* FOR TEST / DEV */
-
-.placeholder {
-    font-size: 35px;
-}
-
-
-
-/* MAIN STYLES */
-
 html, body {
-    margin: 0;
-    padding: 0;
+    margin:0; padding:0;
 }
+* { box-sizing:border-box; }
 
 body {
-    /*background-image: url('img/bg.jpg');*/
-    background-repeat: no-repeat;
-    background-position: center;
-    background-color: white;
-    font-family: 'Lato', sans-serif;
-    color: #005EA1;
-    font-weight: 400;
-    letter-spacing: 1px;
+    font-family:'Lato', sans-serif; color:#005EA1;
+    font-weight:400;
 }
 
-/* HEADER STYLES */
-
-.title-placeholder {
-    min-height: 300px;
-    margin-bottom: 10px;
-    border: 1px solid;
+#myPlayer, #myPlayer .dacast-theo {
+    width:100% !important; height:100% !important;
 }
 
-/* CLEAR */
-
-.clearfix:before {
-    content: '.';
-    display: block;
-    height: 0;
-    visibility: hidden;
+#header {
+    min-height:152px; background:#c0c0c0; background: #000000 url(../header.png) no-repeat center;
 }
 
-.clearfix:after {
-    content: '.';
-    display: block;
-    height: 0;
-    visibility: hidden;
-    clear: both;
+#main {
+    background:#e0e0e0; overflow:hidden;
 }
 
-/* CONTAINER STYLES */
-
-.page {
-    max-width: 1066px;
-    margin: auto;
+#player-box {
+    float:left; margin:0; width:64vw; height:36vw;
 }
 
-.player-placeholder {
-    position: relative;
-    width: 640px;
-    height: 360px;
-    background-color: green;
-    margin-bottom: 10px;
+#twitter-box {
+    float:left; min-height:200px; margin:0; width:64vw;
+    /*background:#1da1f3;*/
 }
 
-.results-placeholder {
-    position: relative;
-    margin-top: -370px;
-    margin-left: 650px;
-    /*background-color: blue;*/
-    min-width: 370px;
-    border: 1px solid;
+#twitter-widget-0 {
+    width: 64vw !important;
 }
 
-.results-contents {
-    min-height: 890px;
+#results-box {
+    float:right; width:36vw; min-height:200px; background:#612d2d;
 }
 
-.twitter-placeholder {
-    /*background-color: brown; */
-    width: 640px;
-    clear: left;
-    float: left;
-    min-height: 520px;
-    border: 1px solid;
-}
-
-/* FOOTER STYLES */
-
-.footer {
-    min-height: 100px;
-    color: #fff;
-    background-color: #005EA1;
-    margin-top: 10px;
+#results-inner {
     padding: 10px;
 }
 
-@media screen and (max-width: 1120px) { /* 656px*/
-    .header {
-        min-width: 426px;
-    }
-
-    .title-placeholder {
-        min-height: 100px;
-    }
-    
-    .page {
-        min-width: 426px;
-    }
-
-    .footer {
-        min-width: 426px;
-    }
-
-    .player-placeholder {
-        width: 426px;
-        height: 240px;
-        margin-left: 50%;
-        left: -213px;
-    }
-
-    .results-placeholder {
-        clear: both;
-        margin: 10px auto;
-        top: 0;
-        width: 426px;
-        max-width: 426px;
-    }
-
-    .results-content {
-        min-height: 520px;
-    }
-
-    .twitter-placeholder {
-        clear: both;
-        float: none;
-        max-width: 426px;
-        margin: 10px auto;
-        top: 0;
-        width: 426px;
-    }
-
+input {
+    width:60%;
 }
 
-@media screen and (max-width: 1120px) {
-    .page {
-        
-    }
+
+#footer {
+    min-height:200px; background:#c0c0c0;
 }
 
-@media screen and (min-height: 630px) and (min-width: 1294px) {
 
-    .page {
-        max-width: 1280px;
-    }
-
-    .player-placeholder {
-        width: 854px;
-        height: 480px;
-    }
-
-    .results-placeholder {
-        margin-left: 864px;
-        top: -120px;
-    }
-
-    .results-contents {
-        min-height: 1010px;
-    }
-
-    .twitter-placeholder {
-        width: 854px;
-    }
-}
-
-@media screen and (min-height: 980px) and (min-width: 1720px) {
-    
-    .page {
-        max-width: 1706px;
-    }
-
-    .player-placeholder {
-        width: 1280px;
-        height: 720px;
-    }
-
-    .results-placeholder {
-        margin-left: 1290px;
-        top: -360px;
-    }
-
-    .results-contents {
-        min-height: 1250px;
-    }
-
-    .twitter-placeholder {
-        width: 1280px;
-    }
-
+@media screen and (max-width:600px) {
+    #header { min-height:152px; }
+    #player-box { float:none; width:100vw; height:56.25vw; }
+    #twitter-box { float:none; width:100%; }
+    #twitter-widget-0 { width: 100vw !important; }
+    #results-box { float:none; width:100%; padding-left:0; }
 }
