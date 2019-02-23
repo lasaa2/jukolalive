@@ -50,12 +50,12 @@ body {
 }
 
 #results-box {
-    float:right; width:36vw; min-height:200px;
+    float:right; width:36vw; height: 100vw;
 }
 
 #results-inner, #results-inner, .results-iframe {
-    width: 100% !important;
-    height: 800px !important;
+    width:100% !important;
+    height: 100% !important;
     border: none;
 }
 
