@@ -25,7 +25,7 @@ body {
 /* HEADER */
 
 #header {
-    min-height:152px; background:#c0c0c0; background: #000000 url(../header.png) no-repeat center;
+    min-height:152px; background: #dbe3df url(../header.png) no-repeat center;
 }
 
 /* MAIN */
