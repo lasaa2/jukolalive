@@ -10,16 +10,29 @@ body {
     font-weight:400;
 }
 
+/* Dacast livestream player */
+
 #myPlayer, #myPlayer .dacast-theo {
     width:100% !important; height:100% !important;
 }
+
+/* Youtube alternative embedded player */
+
+#youtubePlayer, #youtubePlayer .dacast-theo {
+    width:100% !important; height:100% !important;
+}
+
+/* HEADER */
 
 #header {
     min-height:152px; background:#c0c0c0; background: #000000 url(../header.png) no-repeat center;
 }
 
+/* MAIN */
+
 #main {
-    background:#e0e0e0; overflow:hidden;
+    background:#fff; overflow:hidden;
+    /*background:#bcc9bb;*/
 }
 
 #player-box {
@@ -29,6 +42,7 @@ body {
 #twitter-box {
     float:left; min-height:200px; margin:0; width:64vw;
     /*background:#1da1f3;*/
+    margin-top: 5px;
 }
 
 #twitter-widget-0 {
@@ -36,25 +50,30 @@ body {
 }
 
 #results-box {
-    float:right; width:36vw; min-height:200px; background:#612d2d;
+    float:right; width:36vw; min-height:200px;
 }
 
-#results-inner {
-    padding: 10px;
+#results-inner, #results-inner, .results-iframe {
+    width: 100% !important;
+    height: 800px !important;
+    border: none;
 }
 
 input {
     width:60%;
 }
 
+/* FOOTER */
 
-#footer {
-    min-height:200px; background:#c0c0c0;
+footer#footer {
+    min-height:100px; background-color: #005EA1; color: white; text-align: center; padding-top: 40px;
+
 }
 
+/* Mobile viewport settings */
 
 @media screen and (max-width:600px) {
-    #header { min-height:152px; }
+    #header { min-height:152px;}
     #player-box { float:none; width:100vw; height:56.25vw; }
     #twitter-box { float:none; width:100%; }
     #twitter-widget-0 { width: 100vw !important; }
