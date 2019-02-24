@@ -26,6 +26,7 @@ body {
 
 #header {
     min-height:152px; background: #dbe3df url(../header.png) no-repeat center;
+    background-size: cover;
 }
 
 /* MAIN */
@@ -50,13 +51,11 @@ body {
 }
 
 #results-box {
-    float:right; width:36vw; height: 100vw;
+    float:right; width:36vw;
 }
 
-#results-inner, #results-inner, .results-iframe {
-    width:100% !important;
-    height: 100% !important;
-    border: none;
+#results-content {
+    padding: 0 15px;
 }
 
 input {
@@ -73,9 +72,19 @@ footer#footer {
 /* Mobile viewport settings */
 
 @media screen and (max-width:600px) {
-    #header { min-height:152px;}
+    #header { min-height:60px;}
     #player-box { float:none; width:100vw; height:56.25vw; }
     #twitter-box { float:none; width:100%; }
     #twitter-widget-0 { width: 100vw !important; }
-    #results-box { float:none; width:100%; padding-left:0; }
+    #results-box { float:none; width:100%; padding-left:0; min-height: 110px; }
+}
+
+/* Extra large screens */
+
+@media screen and (min-width: 1970px) {
+    #header { min-height: 228px;}
+}
+
+@media screen and (min-width: 2990px) {
+    #header { min-height: 372px;}
 }
