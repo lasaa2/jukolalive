@@ -1,3 +1,8 @@
+/* Chrome, Safari, AND NOW ALSO the Windows 10 Edge Browser */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    .selector { property:value; } 
+  }
+
 /* Jukola Live 2019 */
 
 html, body {
@@ -51,7 +56,7 @@ body {
 }
 
 #results-box {
-    float:right; width:36vw;
+    float:right; width:34vw;
 }
 
 #results-content {
