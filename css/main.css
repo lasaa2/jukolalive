@@ -1,8 +1,3 @@
-/* Chrome, Safari, AND NOW ALSO the Windows 10 Edge Browser */
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-    .selector { property:value; } 
-  }
-
 /* Jukola Live 2019 */
 
 html, body {
@@ -18,12 +13,6 @@ body {
 /* Dacast livestream player */
 
 #myPlayer, #myPlayer .dacast-theo {
-    width:100% !important; height:100% !important;
-}
-
-/* Youtube alternative embedded player */
-
-#youtubePlayer, #youtubePlayer .dacast-theo {
     width:100% !important; height:100% !important;
 }
 
@@ -56,11 +45,13 @@ body {
 }
 
 #results-box {
-    float:right; width:34vw;
+    float:right; width:36vw; height: 100vw;
 }
 
-#results-content {
-    padding: 0 15px;
+#results-content, .results {
+    height: 100% !important;
+    width: 100% !important;
+    border: none !important;
 }
 
 input {

@@ -721,3 +721,2555 @@
         "since_id_str": "0"
     }
 }
+
+
+{
+    "statuses": [{
+        "created_at": "Thu Feb 28 17:24:15 +0000 2019",
+        "id": 1101171231519375361,
+        "id_str": "1101171231519375361",
+        "text": "Muuten oli tunnelma odottava kuin @JukolanViesti kolmannella osuudella (Rovaniemell\u00e4 13.-14.6.2020). Hiukan h\u00e4m\u00e4r\u00e4\u00e4\u2026 https:\/\/t.co\/NqzdSO2W9P",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [34, 48]
+            }],
+            "urls": [{
+                "url": "https:\/\/t.co\/NqzdSO2W9P",
+                "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1101171231519375361",
+                "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                "indices": [117, 140]
+            }]
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "in_reply_to_status_id": 1101170220272627712,
+        "in_reply_to_status_id_str": "1101170220272627712",
+        "in_reply_to_user_id": 1140753396,
+        "in_reply_to_user_id_str": "1140753396",
+        "in_reply_to_screen_name": "ropsrovaniemi",
+        "user": {
+            "id": 1140753396,
+            "id_str": "1140753396",
+            "name": "RoPS",
+            "screen_name": "ropsrovaniemi",
+            "location": "Rovaniemi, Finland",
+            "description": "Rovaniemen Palloseuran virallinen Twitter-kanava",
+            "url": "http:\/\/t.co\/XJGmvB3F",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http:\/\/t.co\/XJGmvB3F",
+                        "expanded_url": "http:\/\/www.rops.fi",
+                        "display_url": "rops.fi",
+                        "indices": [0, 20]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5976,
+            "friends_count": 202,
+            "listed_count": 76,
+            "created_at": "Fri Feb 01 21:27:57 +0000 2013",
+            "favourites_count": 1294,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 5905,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/868521609044385793\/L4cCTy4D_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/868521609044385793\/L4cCTy4D_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1140753396\/1546294500",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "8EE7ED",
+            "profile_text_color": "57C6FD",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Wed Feb 27 09:16:00 +0000 2019",
+        "id": 1100685973732687872,
+        "id_str": "1100685973732687872",
+        "text": "RT @jarkkoliuha: Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uunituore\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [{
+                "text": "jukola",
+                "indices": [94, 101]
+            }, {
+                "text": "suunnistus",
+                "indices": [102, 113]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "jarkkoliuha",
+                "name": "Jarkko Liuha",
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "indices": [3, 15]
+            }, {
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [114, 128]
+            }],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2481248993,
+            "id_str": "2481248993",
+            "name": "Esko Junttila",
+            "screen_name": "EskoJunttila",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7,
+            "friends_count": 45,
+            "listed_count": 0,
+            "created_at": "Sun Apr 13 10:48:28 +0000 2014",
+            "favourites_count": 58,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 157,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+            "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Feb 26 12:53:54 +0000 2019",
+            "id": 1100378422377959424,
+            "id_str": "1100378422377959424",
+            "text": "Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uu\u2026 https:\/\/t.co\/g8QPHzX9Hu",
+            "truncated": true,
+            "entities": {
+                "hashtags": [{
+                    "text": "jukola",
+                    "indices": [77, 84]
+                }, {
+                    "text": "suunnistus",
+                    "indices": [85, 96]
+                }],
+                "symbols": [],
+                "user_mentions": [{
+                    "screen_name": "JukolanViesti",
+                    "name": "Jukolan viesti",
+                    "id": 407818972,
+                    "id_str": "407818972",
+                    "indices": [97, 111]
+                }],
+                "urls": [{
+                    "url": "https:\/\/t.co\/g8QPHzX9Hu",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1100378422377959424",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [117, 140]
+                }]
+            },
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "name": "Jarkko Liuha",
+                "screen_name": "jarkkoliuha",
+                "location": "Kangasala",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 68,
+                "friends_count": 111,
+                "listed_count": 0,
+                "created_at": "Mon Jul 27 11:15:41 +0000 2015",
+                "favourites_count": 383,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 59,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 40,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Wed Feb 27 04:00:37 +0000 2019",
+        "id": 1100606604964253696,
+        "id_str": "1100606604964253696",
+        "text": "RT @jarkkoliuha: Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uunituore\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [{
+                "text": "jukola",
+                "indices": [94, 101]
+            }, {
+                "text": "suunnistus",
+                "indices": [102, 113]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "jarkkoliuha",
+                "name": "Jarkko Liuha",
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "indices": [3, 15]
+            }, {
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [114, 128]
+            }],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2876216999,
+            "id_str": "2876216999",
+            "name": "Timo Kokko",
+            "screen_name": "kokkens1",
+            "location": "Etu-Horna \/ ei Taka :)",
+            "description": "T:mi Kokkens - tulospalvelua ja muuta kummallista urheilusta",
+            "url": "http:\/\/t.co\/3dQ0LkVKjf",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http:\/\/t.co\/3dQ0LkVKjf",
+                        "expanded_url": "http:\/\/www.kokkens.fi",
+                        "display_url": "kokkens.fi",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 192,
+            "friends_count": 176,
+            "listed_count": 2,
+            "created_at": "Fri Nov 14 09:39:26 +0000 2014",
+            "favourites_count": 1250,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 313,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1014913306786783232\/9GNXcXDN_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1014913306786783232\/9GNXcXDN_normal.jpg",
+            "profile_link_color": "FFCC4D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Feb 26 12:53:54 +0000 2019",
+            "id": 1100378422377959424,
+            "id_str": "1100378422377959424",
+            "text": "Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uu\u2026 https:\/\/t.co\/g8QPHzX9Hu",
+            "truncated": true,
+            "entities": {
+                "hashtags": [{
+                    "text": "jukola",
+                    "indices": [77, 84]
+                }, {
+                    "text": "suunnistus",
+                    "indices": [85, 96]
+                }],
+                "symbols": [],
+                "user_mentions": [{
+                    "screen_name": "JukolanViesti",
+                    "name": "Jukolan viesti",
+                    "id": 407818972,
+                    "id_str": "407818972",
+                    "indices": [97, 111]
+                }],
+                "urls": [{
+                    "url": "https:\/\/t.co\/g8QPHzX9Hu",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1100378422377959424",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [117, 140]
+                }]
+            },
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "name": "Jarkko Liuha",
+                "screen_name": "jarkkoliuha",
+                "location": "Kangasala",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 68,
+                "friends_count": 111,
+                "listed_count": 0,
+                "created_at": "Mon Jul 27 11:15:41 +0000 2015",
+                "favourites_count": 383,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 59,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 40,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Tue Feb 26 20:56:21 +0000 2019",
+        "id": 1100499835495567363,
+        "id_str": "1100499835495567363",
+        "text": "T\u00e4h\u00e4n liittyen yrit\u00e4n pit\u00e4\u00e4 kiinni periaattesta, ett\u00e4 v\u00e4hint\u00e4\u00e4n yksi t\u00e4yden matkan #maraton vuodessa sek\u00e4\u2026 https:\/\/t.co\/ZKflCJ341v",
+        "truncated": true,
+        "entities": {
+            "hashtags": [{
+                "text": "maraton",
+                "indices": [83, 91]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [{
+                "url": "https:\/\/t.co\/ZKflCJ341v",
+                "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1100499835495567363",
+                "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                "indices": [107, 130]
+            }]
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2360501621,
+            "id_str": "2360501621",
+            "name": "Jouko Vuolle",
+            "screen_name": "JoukoVuolle",
+            "location": "Lapua, Finland",
+            "description": "Elinkeinotoimenjohtaja, Lapuan kaupunki, joten\relinkeino- ja energia-asiat syd\u00e4nt\u00e4 l\u00e4hell\u00e4. Osake- ja asuntosijoittaja. Suunnistusta ja liikuntaa sopivasti.",
+            "url": "https:\/\/t.co\/Us4UjoEdCf",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "https:\/\/t.co\/Us4UjoEdCf",
+                        "expanded_url": "https:\/\/www.linkedin.com\/in\/jouko-vuolle-0b48783",
+                        "display_url": "linkedin.com\/in\/jouko-vuoll\u2026",
+                        "indices": [0, 23]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 219,
+            "friends_count": 376,
+            "listed_count": 3,
+            "created_at": "Sun Feb 23 10:02:29 +0000 2014",
+            "favourites_count": 2560,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 613,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/863769511698288640\/NY0o1aJ__normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/863769511698288640\/NY0o1aJ__normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2360501621\/1494773821",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1100382151848222720,
+        "quoted_status_id_str": "1100382151848222720",
+        "quoted_status": {
+            "created_at": "Tue Feb 26 13:08:43 +0000 2019",
+            "id": 1100382151848222720,
+            "id_str": "1100382151848222720",
+            "text": "Aika harva suomalainen liikkuu tarpeeksi viikottain, kertoo @UKKinstituutti Tommi Vasankari. #lis\u00e4\u00e4liikett\u00e4 -hanke\u2026 https:\/\/t.co\/jtkLzK0Da6",
+            "truncated": true,
+            "entities": {
+                "hashtags": [{
+                    "text": "lis\u00e4\u00e4liikett\u00e4",
+                    "indices": [93, 107]
+                }],
+                "symbols": [],
+                "user_mentions": [{
+                    "screen_name": "UKKinstituutti",
+                    "name": "UKK-instituutti",
+                    "id": 4783942696,
+                    "id_str": "4783942696",
+                    "indices": [60, 75]
+                }],
+                "urls": [{
+                    "url": "https:\/\/t.co\/jtkLzK0Da6",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1100382151848222720",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [116, 139]
+                }]
+            },
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2974566670,
+                "id_str": "2974566670",
+                "name": "MPK",
+                "screen_name": "MPKoulutus",
+                "location": "Valtakunnallinen",
+                "description": "Maanpuolustuskoulutusyhdistys MPK on suomen kattavin kokonaisturvallisuuden kouluttaja. MPK on julkishallinnollinen yhdistys, jota ohjaa puolustusministeri\u00f6",
+                "url": "https:\/\/t.co\/GI1vwnFKsd",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "https:\/\/t.co\/GI1vwnFKsd",
+                            "expanded_url": "http:\/\/www.mpk.fi",
+                            "display_url": "mpk.fi",
+                            "indices": [0, 23]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1262,
+                "friends_count": 382,
+                "listed_count": 8,
+                "created_at": "Mon Jan 12 12:14:10 +0000 2015",
+                "favourites_count": 1262,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 531,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/565065534413094912\/bQdnof3k_normal.jpeg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/565065534413094912\/bQdnof3k_normal.jpeg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2974566670\/1549262433",
+                "profile_link_color": "003478",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 14,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Tue Feb 26 19:55:01 +0000 2019",
+        "id": 1100484400834404358,
+        "id_str": "1100484400834404358",
+        "text": "RT @jarkkoliuha: Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uunituore\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [{
+                "text": "jukola",
+                "indices": [94, 101]
+            }, {
+                "text": "suunnistus",
+                "indices": [102, 113]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "jarkkoliuha",
+                "name": "Jarkko Liuha",
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "indices": [3, 15]
+            }, {
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [114, 128]
+            }],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003eTwitter for iPad\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2608518651,
+            "id_str": "2608518651",
+            "name": "Jarmo Joutsensaari",
+            "screen_name": "JJoutsensaari",
+            "location": "",
+            "description": "@vaylafi johtaja @KangasalaSK suunnistaja, puheenjohtaja",
+            "url": "https:\/\/t.co\/we8NSV9JS2",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "https:\/\/t.co\/we8NSV9JS2",
+                        "expanded_url": "http:\/\/www.vayla.fi",
+                        "display_url": "vayla.fi",
+                        "indices": [0, 23]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 432,
+            "friends_count": 393,
+            "listed_count": 6,
+            "created_at": "Sat Jun 14 10:42:18 +0000 2014",
+            "favourites_count": 4108,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1475,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/993886081098579968\/INws0FUg_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/993886081098579968\/INws0FUg_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Feb 26 12:53:54 +0000 2019",
+            "id": 1100378422377959424,
+            "id_str": "1100378422377959424",
+            "text": "Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uu\u2026 https:\/\/t.co\/g8QPHzX9Hu",
+            "truncated": true,
+            "entities": {
+                "hashtags": [{
+                    "text": "jukola",
+                    "indices": [77, 84]
+                }, {
+                    "text": "suunnistus",
+                    "indices": [85, 96]
+                }],
+                "symbols": [],
+                "user_mentions": [{
+                    "screen_name": "JukolanViesti",
+                    "name": "Jukolan viesti",
+                    "id": 407818972,
+                    "id_str": "407818972",
+                    "indices": [97, 111]
+                }],
+                "urls": [{
+                    "url": "https:\/\/t.co\/g8QPHzX9Hu",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1100378422377959424",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [117, 140]
+                }]
+            },
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "name": "Jarkko Liuha",
+                "screen_name": "jarkkoliuha",
+                "location": "Kangasala",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 68,
+                "friends_count": 111,
+                "listed_count": 0,
+                "created_at": "Mon Jul 27 11:15:41 +0000 2015",
+                "favourites_count": 383,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 59,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 40,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Tue Feb 26 18:50:21 +0000 2019",
+        "id": 1100468125139636224,
+        "id_str": "1100468125139636224",
+        "text": "RT @jarkkoliuha: Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uunituore\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [{
+                "text": "jukola",
+                "indices": [94, 101]
+            }, {
+                "text": "suunnistus",
+                "indices": [102, 113]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "jarkkoliuha",
+                "name": "Jarkko Liuha",
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "indices": [3, 15]
+            }, {
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [114, 128]
+            }],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2301054473,
+            "id_str": "2301054473",
+            "name": "Jere Ahonen",
+            "screen_name": "JereAhonen",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 105,
+            "friends_count": 157,
+            "listed_count": 2,
+            "created_at": "Fri Jan 24 08:45:27 +0000 2014",
+            "favourites_count": 229,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 196,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1051901305424371712\/-Cvkk0In_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1051901305424371712\/-Cvkk0In_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Feb 26 12:53:54 +0000 2019",
+            "id": 1100378422377959424,
+            "id_str": "1100378422377959424",
+            "text": "Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uu\u2026 https:\/\/t.co\/g8QPHzX9Hu",
+            "truncated": true,
+            "entities": {
+                "hashtags": [{
+                    "text": "jukola",
+                    "indices": [77, 84]
+                }, {
+                    "text": "suunnistus",
+                    "indices": [85, 96]
+                }],
+                "symbols": [],
+                "user_mentions": [{
+                    "screen_name": "JukolanViesti",
+                    "name": "Jukolan viesti",
+                    "id": 407818972,
+                    "id_str": "407818972",
+                    "indices": [97, 111]
+                }],
+                "urls": [{
+                    "url": "https:\/\/t.co\/g8QPHzX9Hu",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1100378422377959424",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [117, 140]
+                }]
+            },
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "name": "Jarkko Liuha",
+                "screen_name": "jarkkoliuha",
+                "location": "Kangasala",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 68,
+                "friends_count": 111,
+                "listed_count": 0,
+                "created_at": "Mon Jul 27 11:15:41 +0000 2015",
+                "favourites_count": 383,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 59,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 40,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Tue Feb 26 17:42:52 +0000 2019",
+        "id": 1100451144416051205,
+        "id_str": "1100451144416051205",
+        "text": "RT @jarkkoliuha: Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uunituore\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [{
+                "text": "jukola",
+                "indices": [94, 101]
+            }, {
+                "text": "suunnistus",
+                "indices": [102, 113]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "jarkkoliuha",
+                "name": "Jarkko Liuha",
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "indices": [3, 15]
+            }, {
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [114, 128]
+            }],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 712535818825543680,
+            "id_str": "712535818825543680",
+            "name": "Risto Lauhanen",
+            "screen_name": "RistoLauhanen",
+            "location": "Etel\u00e4-Pohjanmaa, Suomi",
+            "description": "dosentti, erityisasiantuntija, perheenis\u00e4, res kapt, kuntosuunnistaja, -hiiht\u00e4j\u00e4, ja -juoksija",
+            "url": "https:\/\/t.co\/0calYMF6HN",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "https:\/\/t.co\/0calYMF6HN",
+                        "expanded_url": "http:\/\/www.seamk.fi",
+                        "display_url": "seamk.fi",
+                        "indices": [0, 23]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 252,
+            "friends_count": 622,
+            "listed_count": 2,
+            "created_at": "Wed Mar 23 07:05:52 +0000 2016",
+            "favourites_count": 17543,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5281,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+            "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Feb 26 12:53:54 +0000 2019",
+            "id": 1100378422377959424,
+            "id_str": "1100378422377959424",
+            "text": "Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uu\u2026 https:\/\/t.co\/g8QPHzX9Hu",
+            "truncated": true,
+            "entities": {
+                "hashtags": [{
+                    "text": "jukola",
+                    "indices": [77, 84]
+                }, {
+                    "text": "suunnistus",
+                    "indices": [85, 96]
+                }],
+                "symbols": [],
+                "user_mentions": [{
+                    "screen_name": "JukolanViesti",
+                    "name": "Jukolan viesti",
+                    "id": 407818972,
+                    "id_str": "407818972",
+                    "indices": [97, 111]
+                }],
+                "urls": [{
+                    "url": "https:\/\/t.co\/g8QPHzX9Hu",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1100378422377959424",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [117, 140]
+                }]
+            },
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "name": "Jarkko Liuha",
+                "screen_name": "jarkkoliuha",
+                "location": "Kangasala",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 68,
+                "friends_count": 111,
+                "listed_count": 0,
+                "created_at": "Mon Jul 27 11:15:41 +0000 2015",
+                "favourites_count": 383,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 59,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 40,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Tue Feb 26 17:13:53 +0000 2019",
+        "id": 1100443847421804546,
+        "id_str": "1100443847421804546",
+        "text": "RT @jarkkoliuha: Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uunituore\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [{
+                "text": "jukola",
+                "indices": [94, 101]
+            }, {
+                "text": "suunnistus",
+                "indices": [102, 113]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "jarkkoliuha",
+                "name": "Jarkko Liuha",
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "indices": [3, 15]
+            }, {
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [114, 128]
+            }],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1505996761,
+            "id_str": "1505996761",
+            "name": "Veikko Iittainen",
+            "screen_name": "VeikkoIittainen",
+            "location": "",
+            "description": "Suomen mets\u00e4keskuksen mets\u00e4nomistajien palvelup\u00e4\u00e4llikk\u00f6 nostaa esille Mets\u00e4keskuksen ja mets\u00e4sektorin keskeisi\u00e4 ajankohtaisia asioita.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 666,
+            "friends_count": 453,
+            "listed_count": 12,
+            "created_at": "Tue Jun 11 18:40:13 +0000 2013",
+            "favourites_count": 4880,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2442,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/378800000595303442\/797b7cafabc1c06ca6a99152c0a97d96_normal.jpeg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/378800000595303442\/797b7cafabc1c06ca6a99152c0a97d96_normal.jpeg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Feb 26 12:53:54 +0000 2019",
+            "id": 1100378422377959424,
+            "id_str": "1100378422377959424",
+            "text": "Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uu\u2026 https:\/\/t.co\/g8QPHzX9Hu",
+            "truncated": true,
+            "entities": {
+                "hashtags": [{
+                    "text": "jukola",
+                    "indices": [77, 84]
+                }, {
+                    "text": "suunnistus",
+                    "indices": [85, 96]
+                }],
+                "symbols": [],
+                "user_mentions": [{
+                    "screen_name": "JukolanViesti",
+                    "name": "Jukolan viesti",
+                    "id": 407818972,
+                    "id_str": "407818972",
+                    "indices": [97, 111]
+                }],
+                "urls": [{
+                    "url": "https:\/\/t.co\/g8QPHzX9Hu",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1100378422377959424",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [117, 140]
+                }]
+            },
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "name": "Jarkko Liuha",
+                "screen_name": "jarkkoliuha",
+                "location": "Kangasala",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 68,
+                "friends_count": 111,
+                "listed_count": 0,
+                "created_at": "Mon Jul 27 11:15:41 +0000 2015",
+                "favourites_count": 383,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 59,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 40,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Tue Feb 26 14:00:44 +0000 2019",
+        "id": 1100395242887491584,
+        "id_str": "1100395242887491584",
+        "text": "@MPKoulutus @PEKOULJ7 Mielenkiintoista keskustelua. Voiko reservil\u00e4inen selvi\u00e4t\u00e4 l\u00e4pi esim. @JukolanViesti -kisasta\u2026 https:\/\/t.co\/CFHgmiAtNh",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "MPKoulutus",
+                "name": "MPK",
+                "id": 2974566670,
+                "id_str": "2974566670",
+                "indices": [0, 11]
+            }, {
+                "screen_name": "PEKOULJ7",
+                "name": "Koulutusp\u00e4\u00e4llikk\u00f6",
+                "id": 4895935095,
+                "id_str": "4895935095",
+                "indices": [12, 21]
+            }, {
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [92, 106]
+            }],
+            "urls": [{
+                "url": "https:\/\/t.co\/CFHgmiAtNh",
+                "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1100395242887491584",
+                "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                "indices": [117, 140]
+            }]
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+        "in_reply_to_status_id": 1100388428674256896,
+        "in_reply_to_status_id_str": "1100388428674256896",
+        "in_reply_to_user_id": 2974566670,
+        "in_reply_to_user_id_str": "2974566670",
+        "in_reply_to_screen_name": "MPKoulutus",
+        "user": {
+            "id": 712535818825543680,
+            "id_str": "712535818825543680",
+            "name": "Risto Lauhanen",
+            "screen_name": "RistoLauhanen",
+            "location": "Etel\u00e4-Pohjanmaa, Suomi",
+            "description": "dosentti, erityisasiantuntija, perheenis\u00e4, res kapt, kuntosuunnistaja, -hiiht\u00e4j\u00e4, ja -juoksija",
+            "url": "https:\/\/t.co\/0calYMF6HN",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "https:\/\/t.co\/0calYMF6HN",
+                        "expanded_url": "http:\/\/www.seamk.fi",
+                        "display_url": "seamk.fi",
+                        "indices": [0, 23]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 252,
+            "friends_count": 622,
+            "listed_count": 2,
+            "created_at": "Wed Mar 23 07:05:52 +0000 2016",
+            "favourites_count": 17543,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 5281,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+            "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Tue Feb 26 13:20:21 +0000 2019",
+        "id": 1100385076708282370,
+        "id_str": "1100385076708282370",
+        "text": "RT @jarkkoliuha: Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uunituore\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [{
+                "text": "jukola",
+                "indices": [94, 101]
+            }, {
+                "text": "suunnistus",
+                "indices": [102, 113]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "jarkkoliuha",
+                "name": "Jarkko Liuha",
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "indices": [3, 15]
+            }, {
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [114, 128]
+            }],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 407818972,
+            "id_str": "407818972",
+            "name": "Jukolan viesti",
+            "screen_name": "JukolanViesti",
+            "location": "Kangasala, Suomi",
+            "description": "Jukola relay is an orienteering competition for elites and amateurs. Kangasala Jukola 15-16 June 2019: collect a team, enjoy and succeed! #kangasala #jukola",
+            "url": "https:\/\/t.co\/pkVLylzI6J",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "https:\/\/t.co\/pkVLylzI6J",
+                        "expanded_url": "http:\/\/jukola.com\/2019",
+                        "display_url": "jukola.com\/2019",
+                        "indices": [0, 23]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 5523,
+            "friends_count": 2584,
+            "listed_count": 41,
+            "created_at": "Tue Nov 08 16:03:27 +0000 2011",
+            "favourites_count": 4172,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3559,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1014072489171980289\/exI5pQh8_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1014072489171980289\/exI5pQh8_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/407818972\/1530608386",
+            "profile_link_color": "005EA1",
+            "profile_sidebar_border_color": "C6E2EE",
+            "profile_sidebar_fill_color": "DAECF4",
+            "profile_text_color": "663B12",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Feb 26 12:53:54 +0000 2019",
+            "id": 1100378422377959424,
+            "id_str": "1100378422377959424",
+            "text": "Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uu\u2026 https:\/\/t.co\/g8QPHzX9Hu",
+            "truncated": true,
+            "entities": {
+                "hashtags": [{
+                    "text": "jukola",
+                    "indices": [77, 84]
+                }, {
+                    "text": "suunnistus",
+                    "indices": [85, 96]
+                }],
+                "symbols": [],
+                "user_mentions": [{
+                    "screen_name": "JukolanViesti",
+                    "name": "Jukolan viesti",
+                    "id": 407818972,
+                    "id_str": "407818972",
+                    "indices": [97, 111]
+                }],
+                "urls": [{
+                    "url": "https:\/\/t.co\/g8QPHzX9Hu",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1100378422377959424",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [117, 140]
+                }]
+            },
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3297500647,
+                "id_str": "3297500647",
+                "name": "Jarkko Liuha",
+                "screen_name": "jarkkoliuha",
+                "location": "Kangasala",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 68,
+                "friends_count": 111,
+                "listed_count": 0,
+                "created_at": "Mon Jul 27 11:15:41 +0000 2015",
+                "favourites_count": 383,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 59,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": true,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 40,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Tue Feb 26 12:53:54 +0000 2019",
+        "id": 1100378422377959424,
+        "id_str": "1100378422377959424",
+        "text": "Kangasala Jukola 2019 -j\u00e4rjestelyt etenev\u00e4t karttojen osalta aikataulussaan. #jukola #suunnistus @JukolanViesti. Uu\u2026 https:\/\/t.co\/g8QPHzX9Hu",
+        "truncated": true,
+        "entities": {
+            "hashtags": [{
+                "text": "jukola",
+                "indices": [77, 84]
+            }, {
+                "text": "suunnistus",
+                "indices": [85, 96]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [97, 111]
+            }],
+            "urls": [{
+                "url": "https:\/\/t.co\/g8QPHzX9Hu",
+                "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1100378422377959424",
+                "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                "indices": [117, 140]
+            }]
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3297500647,
+            "id_str": "3297500647",
+            "name": "Jarkko Liuha",
+            "screen_name": "jarkkoliuha",
+            "location": "Kangasala",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 68,
+            "friends_count": 111,
+            "listed_count": 0,
+            "created_at": "Mon Jul 27 11:15:41 +0000 2015",
+            "favourites_count": 383,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 59,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+            "profile_image_url_https": "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": true,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 40,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Mon Feb 25 19:15:59 +0000 2019",
+        "id": 1100112189405491200,
+        "id_str": "1100112189405491200",
+        "text": "Haikeat, l\u00e4mpim\u00e4t el\u00e4kejuhlat iltap\u00e4iv\u00e4ll\u00e4. Kiitos Tytti. Oli hienoa tutustua sinuun. N\u00e4hd\u00e4\u00e4n #jukolanviesti  #seurakuntaopisto",
+        "truncated": false,
+        "entities": {
+            "hashtags": [{
+                "text": "jukolanviesti",
+                "indices": [94, 108]
+            }, {
+                "text": "seurakuntaopisto",
+                "indices": [110, 127]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1025410069,
+            "id_str": "1025410069",
+            "name": "Esa Ukkola",
+            "screen_name": "EsaUkkola",
+            "location": "",
+            "description": "T\u00f6iss\u00e4: apulaisrehtori (johtaminen ja henkil\u00f6st\u00f6) Seurakuntaopisto Kirkkopalvelut ry.\nVapaa-ajalla Twitter, instagram ja blogi Nuotiotarinablogi @ukkolanesa",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 431,
+            "friends_count": 791,
+            "listed_count": 9,
+            "created_at": "Fri Dec 21 01:33:49 +0000 2012",
+            "favourites_count": 2080,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 2297,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/925418495663394816\/a2avA_HE_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/925418495663394816\/a2avA_HE_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Mon Feb 25 11:46:12 +0000 2019",
+        "id": 1099998995802456064,
+        "id_str": "1099998995802456064",
+        "text": "RT @JukolanViesti: T\u00e4n\u00e4\u00e4n vuorossa ensimm\u00e4inen Nouskin poikien Jukola-blogin juttu! Blogitekstiss\u00e4 pohditaan muun muassa y\u00f6suunnistuksen sa\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [3, 17]
+            }],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1093194043457224705,
+            "id_str": "1093194043457224705",
+            "name": "Eetu Laankoski",
+            "screen_name": "Eetu1980",
+            "location": "\ud83c\uddeb\ud83c\uddee",
+            "description": "Ty\u00f6t\u00f6n Asentaja vuodesta 97. M\u00e4 oon stadis hei lande.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 22,
+            "listed_count": 0,
+            "created_at": "Wed Feb 06 17:05:45 +0000 2019",
+            "favourites_count": 780,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 394,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1099868414229864450\/tbZ3WAwt_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1099868414229864450\/tbZ3WAwt_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1093194043457224705\/1549890555",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Nov 26 18:28:24 +0000 2018",
+            "id": 1067122919657091072,
+            "id_str": "1067122919657091072",
+            "text": "T\u00e4n\u00e4\u00e4n vuorossa ensimm\u00e4inen Nouskin poikien Jukola-blogin juttu! Blogitekstiss\u00e4 pohditaan muun muassa y\u00f6suunnistuks\u2026 https:\/\/t.co\/ThsCgH47xc",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [{
+                    "url": "https:\/\/t.co\/ThsCgH47xc",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1067122919657091072",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [117, 140]
+                }]
+            },
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 407818972,
+                "id_str": "407818972",
+                "name": "Jukolan viesti",
+                "screen_name": "JukolanViesti",
+                "location": "Kangasala, Suomi",
+                "description": "Jukola relay is an orienteering competition for elites and amateurs. Kangasala Jukola 15-16 June 2019: collect a team, enjoy and succeed! #kangasala #jukola",
+                "url": "https:\/\/t.co\/pkVLylzI6J",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "https:\/\/t.co\/pkVLylzI6J",
+                            "expanded_url": "http:\/\/jukola.com\/2019",
+                            "display_url": "jukola.com\/2019",
+                            "indices": [0, 23]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5523,
+                "friends_count": 2584,
+                "listed_count": 41,
+                "created_at": "Tue Nov 08 16:03:27 +0000 2011",
+                "favourites_count": 4172,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3559,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C6E2EE",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1014072489171980289\/exI5pQh8_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1014072489171980289\/exI5pQh8_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/407818972\/1530608386",
+                "profile_link_color": "005EA1",
+                "profile_sidebar_border_color": "C6E2EE",
+                "profile_sidebar_fill_color": "DAECF4",
+                "profile_text_color": "663B12",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 7,
+            "favorite_count": 26,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Mon Feb 25 11:46:06 +0000 2019",
+        "id": 1099998970108145664,
+        "id_str": "1099998970108145664",
+        "text": "RT @JukolanViesti: Kangasala-Jukolan kilpailukutsu on julkaistu! Kutsu l\u00f6ytyy nettisivuiltamme Kilpailijat-osiosta.\nThe Event invitation of\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [3, 17]
+            }],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1093194043457224705,
+            "id_str": "1093194043457224705",
+            "name": "Eetu Laankoski",
+            "screen_name": "Eetu1980",
+            "location": "\ud83c\uddeb\ud83c\uddee",
+            "description": "Ty\u00f6t\u00f6n Asentaja vuodesta 97. M\u00e4 oon stadis hei lande.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 22,
+            "listed_count": 0,
+            "created_at": "Wed Feb 06 17:05:45 +0000 2019",
+            "favourites_count": 780,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 394,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1099868414229864450\/tbZ3WAwt_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1099868414229864450\/tbZ3WAwt_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1093194043457224705\/1549890555",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Nov 30 08:15:00 +0000 2018",
+            "id": 1068418101484691456,
+            "id_str": "1068418101484691456",
+            "text": "Kangasala-Jukolan kilpailukutsu on julkaistu! Kutsu l\u00f6ytyy nettisivuiltamme Kilpailijat-osiosta.\nThe Event invitati\u2026 https:\/\/t.co\/Khz0PfluPC",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [{
+                    "url": "https:\/\/t.co\/Khz0PfluPC",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1068418101484691456",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [117, 140]
+                }]
+            },
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 407818972,
+                "id_str": "407818972",
+                "name": "Jukolan viesti",
+                "screen_name": "JukolanViesti",
+                "location": "Kangasala, Suomi",
+                "description": "Jukola relay is an orienteering competition for elites and amateurs. Kangasala Jukola 15-16 June 2019: collect a team, enjoy and succeed! #kangasala #jukola",
+                "url": "https:\/\/t.co\/pkVLylzI6J",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "https:\/\/t.co\/pkVLylzI6J",
+                            "expanded_url": "http:\/\/jukola.com\/2019",
+                            "display_url": "jukola.com\/2019",
+                            "indices": [0, 23]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5523,
+                "friends_count": 2584,
+                "listed_count": 41,
+                "created_at": "Tue Nov 08 16:03:27 +0000 2011",
+                "favourites_count": 4172,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3559,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C6E2EE",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1014072489171980289\/exI5pQh8_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1014072489171980289\/exI5pQh8_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/407818972\/1530608386",
+                "profile_link_color": "005EA1",
+                "profile_sidebar_border_color": "C6E2EE",
+                "profile_sidebar_fill_color": "DAECF4",
+                "profile_text_color": "663B12",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 19,
+            "favorite_count": 62,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }, {
+        "created_at": "Mon Feb 25 11:45:39 +0000 2019",
+        "id": 1099998858015375361,
+        "id_str": "1099998858015375361",
+        "text": "RT @JukolanViesti: 16720 suunnistajaa ilmoittautui Kangasala-Jukolaan ensimm\u00e4isess\u00e4 ilmoittautumisportaassa! Lue lis\u00e4\u00e4 \ud83d\udc49https:\/\/t.co\/1T8gtj\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "JukolanViesti",
+                "name": "Jukolan viesti",
+                "id": 407818972,
+                "id_str": "407818972",
+                "indices": [3, 17]
+            }],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fi",
+            "result_type": "recent"
+        },
+        "source": "\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1093194043457224705,
+            "id_str": "1093194043457224705",
+            "name": "Eetu Laankoski",
+            "screen_name": "Eetu1980",
+            "location": "\ud83c\uddeb\ud83c\uddee",
+            "description": "Ty\u00f6t\u00f6n Asentaja vuodesta 97. M\u00e4 oon stadis hei lande.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1,
+            "friends_count": 22,
+            "listed_count": 0,
+            "created_at": "Wed Feb 06 17:05:45 +0000 2019",
+            "favourites_count": 780,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 394,
+            "lang": "fi",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1099868414229864450\/tbZ3WAwt_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1099868414229864450\/tbZ3WAwt_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1093194043457224705\/1549890555",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sun Feb 03 08:08:09 +0000 2019",
+            "id": 1091971590131200000,
+            "id_str": "1091971590131200000",
+            "text": "16720 suunnistajaa ilmoittautui Kangasala-Jukolaan ensimm\u00e4isess\u00e4 ilmoittautumisportaassa! Lue lis\u00e4\u00e4 \ud83d\udc49\u2026 https:\/\/t.co\/2EDJY2dU5N",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [{
+                    "url": "https:\/\/t.co\/2EDJY2dU5N",
+                    "expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1091971590131200000",
+                    "display_url": "twitter.com\/i\/web\/status\/1\u2026",
+                    "indices": [103, 126]
+                }]
+            },
+            "metadata": {
+                "iso_language_code": "fi",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 407818972,
+                "id_str": "407818972",
+                "name": "Jukolan viesti",
+                "screen_name": "JukolanViesti",
+                "location": "Kangasala, Suomi",
+                "description": "Jukola relay is an orienteering competition for elites and amateurs. Kangasala Jukola 15-16 June 2019: collect a team, enjoy and succeed! #kangasala #jukola",
+                "url": "https:\/\/t.co\/pkVLylzI6J",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "https:\/\/t.co\/pkVLylzI6J",
+                            "expanded_url": "http:\/\/jukola.com\/2019",
+                            "display_url": "jukola.com\/2019",
+                            "indices": [0, 23]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5523,
+                "friends_count": 2584,
+                "listed_count": 41,
+                "created_at": "Tue Nov 08 16:03:27 +0000 2011",
+                "favourites_count": 4172,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3559,
+                "lang": "fi",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C6E2EE",
+                "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+                "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme2\/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1014072489171980289\/exI5pQh8_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1014072489171980289\/exI5pQh8_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/407818972\/1530608386",
+                "profile_link_color": "005EA1",
+                "profile_sidebar_border_color": "C6E2EE",
+                "profile_sidebar_fill_color": "DAECF4",
+                "profile_text_color": "663B12",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 9,
+            "favorite_count": 41,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fi"
+        },
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fi"
+    }],
+    "search_metadata": {
+        "completed_in": 0.067,
+        "max_id": 1101171231519375361,
+        "max_id_str": "1101171231519375361",
+        "next_results": "?max_id=1099998858015375360&q=jukolanviesti&include_entities=1",
+        "query": "jukolanviesti",
+        "refresh_url": "?since_id=1101171231519375361&q=jukolanviesti&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

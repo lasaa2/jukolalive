@@ -1,49 +1,7 @@
 const Twitter = require('twitter');
 
 
-let testTweet = { statuses:
-    [ { created_at: 'Tue Feb 26 20:56:21 +0000 2019',
-        id: 1100499835495567400,
-        id_str: '1100499835495567363',
-        text:
-         'Tähän liittyen yritän pitää kiinni periaattesta, että vähintään yksi täyden matkan #maraton vuodessa sekä… https://t.co/ZKflCJ341v',
-        truncated: true,
-        entities: [Object],
-        metadata: [Object],
-        source:
-         '<a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>',
-        in_reply_to_status_id: null,
-        in_reply_to_status_id_str: null,
-        in_reply_to_user_id: null,
-        in_reply_to_user_id_str: null,
-        in_reply_to_screen_name: null,
-        user: [Object],
-        geo: null,
-        coordinates: null,
-        place: null,
-        contributors: null,
-        is_quote_status: true,
-        quoted_status_id: 1100382151848222700,
-        quoted_status_id_str: '1100382151848222720',
-        quoted_status: [Object],
-        retweet_count: 0,
-        favorite_count: 2,
-        favorited: false,
-        retweeted: false,
-        possibly_sensitive: false,
-        lang: 'fi' } ],
-   search_metadata:
-    { completed_in: 0.029,
-      max_id: 1100499835495567400,
-      max_id_str: '1100499835495567363',
-      next_results:
-       '?max_id=1100499835495567362&q=%23jukolanviesti&count=1&include_entities=1',
-      query: '%23jukolanviesti',
-      refresh_url:
-       '?since_id=1100499835495567363&q=%23jukolanviesti&include_entities=1',
-      count: 1,
-      since_id: 0,
-      since_id_str: '0' } };
+let testTweet = 
 
 console.log(testTweet);
 
