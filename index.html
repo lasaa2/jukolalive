@@ -2,6 +2,19 @@
 <html lang="en">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136391624-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-136391624-1');
+    </script>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Jukola Live 2019 - view competition">
@@ -30,26 +43,32 @@
         </div>
 
         <div id="results-box">
-                <div id="results-content">
-                    <div id="results-filter">
-                        <div id="help-text">
-                            <h1>Jukola Live 2019</h1>
-                            <p>
-                                Jukola is live on 15.-16.6.2019! </p><p>
-                                Jukola Live offers you an HD stream to watch Jukolan Viesti and Venlojen Viesti from outside Finland. 
-                                Don't miss a single minute of the relay - the high quality stream keeps you on trail with the best orienteers.
-                            </p>
-                            <div id="social">
-                                <button id="ig"><a class="white" href="https://www.instagram.com/jukolanviesti/" target="_blank">Follow us on Instagram</a></button>
-                                <br>                
-                                <button id="fb"><a class="white" href="https://www.facebook.com/jukolanviesti" target="_blank">Follow us on Facebook</a></button>
-                                <br>
-                                <a href="https://twitter.com/JukolanViesti?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @JukolanViesti</a>
-                            </div>
+            <div id="results-content">
+                <div id="results-filter">
+                    <div id="help-text">
+                        <h1>Jukola Live 2019</h1>
+                        <p>
+                            Jukola is live on 15.-16.6.2019! </p>
+                        <p>
+                            Jukola Live offers you an HD stream to watch Jukolan Viesti and Venlojen Viesti from
+                            outside Finland.
+                            Don't miss a single minute of the relay - the high quality stream keeps you on trail with
+                            the best orienteers.
+                        </p>
+                        <div id="social">
+                            <button id="ig"><a class="white" href="https://www.instagram.com/jukolanviesti/" target="_blank">Follow
+                                    us on Instagram</a></button>
+                            <br>
+                            <button id="fb"><a class="white" href="https://www.facebook.com/jukolanviesti" target="_blank">Follow
+                                    us on Facebook</a></button>
+                            <br>
+                            <a href="https://twitter.com/JukolanViesti?ref_src=twsrc%5Etfw" class="twitter-follow-button"
+                                data-show-count="false">Follow @JukolanViesti</a>
                         </div>
                     </div>
-
                 </div>
+
+            </div>
         </div>
 
         <div id="twitter-box">
@@ -66,12 +85,12 @@
         </div>
     </footer>
     <script>
-    
-        window.setTimeout(function(){
-            let timelineWidget = document.getElementsByClassName("twitter-timeline")[0]['contentDocument']['body']['firstChild']
+        window.setTimeout(function () {
+            let timelineWidget = document.getElementsByClassName("twitter-timeline")[0]['contentDocument'][
+                'body'
+            ]['firstChild']
             timelineWidget.style.maxWidth = 'none'
         }, 1000);
-    
     </script>
 </body>
 
