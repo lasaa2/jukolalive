@@ -26,26 +26,17 @@ body {
 /* MAIN */
 
 #main {
-    background:#fff; overflow:hidden; margin: 0 2vw;
+    background:#fff; overflow:hidden;
     /*background:#bcc9bb;*/
 }
 
 #player-box {
-    float:left; margin:0; width:62vw; height:36vw;
-}
-
-#twitter-box {
-    float:left; min-height:200px; margin:0; width:62vw;
-    /*background:#1da1f3;*/
-    margin-top: 5px;
-}
-
-#twitter-widget-0 {
-    width: 62vw !important;
+    float:left; margin:0; width:64%; height:36vw;
 }
 
 #results-box {
-    float:right; width:33vw; height: 100vw;
+    float:right; width:36%; height: 100vw;
+    /*background:#1da1f3;*/
 }
 
 #results-content, .results {
@@ -54,8 +45,32 @@ body {
     border: none !important;
 }
 
+#results-nav {
+    padding:10px;
+}
+
+#info {
+    margin: 10px;
+}
+
+#twitter-box {
+    float:left; min-height:200px; margin:0; width:64%;
+    /*background:#1da1f3;*/
+    margin-top: 5px;
+}
+
+#twitter-widget-0 {
+    width: 64% !important;
+}
+
 input {
     width:60%;
+}
+
+#buttons {
+    padding: 5px;
+    font-family:'Lato', sans-serif; color:#005EA1;
+    font-weight:400;
 }
 
 /* FOOTER */
@@ -65,7 +80,7 @@ footer#footer {
 
 }
 
-/* Mobile viewport settings */
+/* Mobile viewport settings, windowssin puolella alle 840px ei pysy kasassa.  */
 
 @media screen and (max-width:600px) {
     #header { min-height:60px;}

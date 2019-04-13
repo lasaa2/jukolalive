@@ -30,12 +30,24 @@
         </div>
 
         <div id="results-box">
+            <div id="results-nav">    
+                <button id="buttons" onclick="var ifr=document.getElementsByClassName('results')[0]; ifr.src=ifr.src;">Results homepage</button>
+            </div>
             <div id="results-content">
-                <iframe class="results" width="200" height="200" src="http://tulokset.jukola.com/tulokset/en/j2018_ju/"></iframe>
+
+                <iframe class="results" width="200" height="100%" src="http://tulokset.jukola.com/tulokset/en/j2018_ju/"></iframe>
             </div>
         </div>
 
         <div id="twitter-box">
+                <div id="info">
+                        <h4>How to purchase?</h4>
+                        <p>asdasdlkajsödlk aölskd jöalksdj ölakjsd ölkajsdöl kajdlsökja ölsdkj öalksjdöl kajsdölk jaölsdkj öalksjdl ökajsdöl kjasöldk jöalskjd </p>
+                        <h4>Speakers</h4>
+                        <p>aosidn aisdoi aosi oais oi oidoai oi </p>
+                        <h4> In case of issue</h4>
+                        <p>Contact to Lassi</p>
+                    </div>
             <a class="twitter-timeline" data-theme="dark" data-tweet-limit="5" data-height="300" data-width="auto"
                 data-chrome="nofooter noborders" href="https://twitter.com/JukolanViesti?ref_src=twsrc%5Etfw">Tweets by
                 JukolanViesti</a>
@@ -56,6 +68,10 @@
                 height: 360
             })
         })
+
+        window.setTimeout(function () {
+            let timelineWidget = document.getElementsByClassName("twitter-timeline")[0]['contentDocument']['body']['firstChild']
+            timelineWidget.style.maxWidth = 'none'}, 1000);
     </script>
 </body>
 
