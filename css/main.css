@@ -26,26 +26,26 @@ body {
 /* MAIN */
 
 #main {
-    background:#fff; overflow:hidden;
+    background:#fff; overflow:hidden; margin: 0 2vw;
     /*background:#bcc9bb;*/
 }
 
 #player-box {
-    float:left; margin:0; width:64vw; height:36vw;
+    float:left; margin:0; width:62vw; height:36vw;
 }
 
 #twitter-box {
-    float:left; min-height:200px; margin:0; width:64vw;
+    float:left; min-height:200px; margin:0; width:62vw;
     /*background:#1da1f3;*/
     margin-top: 5px;
 }
 
 #twitter-widget-0 {
-    width: 64vw !important;
+    width: 62vw !important;
 }
 
 #results-box {
-    float:right; width:36vw; height: 100vw;
+    float:right; width:33vw; height: 100vw;
 }
 
 #results-content, .results {
