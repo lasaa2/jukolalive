@@ -34,7 +34,7 @@ body {
 }
 
 #player-box {
-    float:left; margin:0; width:64vw; height:36vw;
+    float:left; margin:0; width:64%; height:36vw;
 }
 
 #twitter-box {
@@ -46,7 +46,7 @@ body {
 }
 
 #results-box {
-    float:right; width:34vw;
+    float:right; width:36%;
     background-image: url('../img/results-placeholder.png');
     background-size: contain;
     background-repeat: no-repeat;
