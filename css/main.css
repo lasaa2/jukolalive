@@ -38,7 +38,7 @@ body {
 }
 
 #twitter-box {
-    float:left; min-height:200px; margin:0; width:64vw; margin-top: 5px;
+    float:left; min-height:200px; margin:0; width:64%; margin-top: 5px;
 }
 
 #twitter-widget-1 {
