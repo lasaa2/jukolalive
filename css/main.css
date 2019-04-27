@@ -16,6 +16,30 @@ body {
     width:100% !important; height:100% !important;
 }
 
+/* Dacast paywall fix */
+
+.dacast-payment {
+    top: 0% !important;
+    padding: 30px !important;
+    height: auto !important;
+    width:100% !important;
+}
+
+/* määritetään kaikki paywall ominaisuudet koko ruudun leveydeksi */
+.dacast-payment .buynow, .dacast-payment .cart, .dacast-payment .creditcard, .dacast-payment .forgotpwd, .dacast-payment .login, .dacast-payment .methods, .dacast-payment .paypal, .dacast-payment .thankyou, .dacast-payment .viewerchallenge, .dacast-payment .viewercreate, .dacast-payment .vieweremail, .dacast-payment .wait {
+    width:80% !important; height:100% !important;
+}
+
+/* koko paywallin korkeus määrittyy sisällön mukaan */
+.dacast-paywall-body {
+    height: auto !important;
+}
+
+/* Back nappulaa alaspäin */
+.dacast-paywall-footer {
+    margin-top: 5px;
+}
+
 /* HEADER */
 
 #header {
@@ -82,18 +106,27 @@ footer#footer {
 
 /* Mobile viewport settings, windowssin puolella alle 840px ei pysy kasassa.  */
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:780px) {
     #header { min-height:60px;}
     #player-box { float:none; width:100vw; height:56.25vw; }
     #twitter-box { float:none; width:100%; }
     #twitter-widget-0 { width: 100vw !important; }
     #results-box { float:none; width:100%; padding-left:0; min-height: 110px; }
+    .dacast-payment { padding: 5px !important; }
+    .dacast-payment .buynow, .dacast-payment .cart, .dacast-payment .creditcard, .dacast-payment .forgotpwd, .dacast-payment .login, .dacast-payment .methods, .dacast-payment .paypal, .dacast-payment .thankyou, .dacast-payment .viewerchallenge, .dacast-payment .viewercreate, .dacast-payment .vieweremail, .dacast-payment .wait {
+        width:100% !important;
+        padding: 10px !important;
+    }
 }
 
 /* Extra large screens */
 
 @media screen and (min-width: 1970px) {
     #header { min-height: 228px;}
+    .dacast-payment .buynow, .dacast-payment .cart, .dacast-payment .creditcard, .dacast-payment .forgotpwd, .dacast-payment .login, .dacast-payment .methods, .dacast-payment .paypal, .dacast-payment .thankyou, .dacast-payment .viewerchallenge, .dacast-payment .viewercreate, .dacast-payment .vieweremail, .dacast-payment .wait {
+        width:50% !important;
+        padding: 30px !important;
+    }
 }
 
 @media screen and (min-width: 2990px) {
