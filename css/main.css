@@ -6,8 +6,7 @@ html, body {
 * { box-sizing:border-box; }
 
 body {
-    font-family:'Lato', sans-serif; color:#005EA1;
-    font-weight:400;
+    font-family:'Lato', sans-serif; color:#005EA1; font-weight:400;
 }
 
 /* Dacast livestream player */
@@ -43,21 +42,20 @@ body {
 /* HEADER */
 
 #header {
-    min-height:152px; background: #dbe3df url(../header.png) no-repeat center;
-    background-size: cover;
+    min-height:152px; background: #dbe3df url(../img/header.png) no-repeat center; background-size: cover;
 }
 
 /* MAIN */
 
 #main {
     background:#fff; overflow:hidden;
-    /*background:#bcc9bb;*/
 }
 
 #player-box {
     float:left; margin:0; width:64%; height:36vw;
 }
 
+<<<<<<< HEAD
 #results-box {
     float:right; width:36%; 
     /* height: 100vw;*/
@@ -114,10 +112,55 @@ a.white {
 .fb_iframe_widget {
     float: left;
     margin-right: 5px;    
+=======
+#twitter-box {
+    float:left; min-height:200px; margin:0; width:64%; margin-top: 5px;
 }
 
-input {
-    width:60%;
+#twitter-widget-1 {
+    width: 100% !important;
+}
+
+#results-box {
+    float:right; width:36%;
+    background-image: url('../img/results-placeholder.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#results-content {
+    height: 100vw;
+>>>>>>> master
+}
+
+#help-text {
+    margin: 1vw 2vw;
+    padding: 0 1vw 1vw;
+    border: 1px solid;
+    border-color: #005EA1;
+    background-color: rgba(255,255,255,0.5);
+}
+
+#ig {
+    background-color: #ef9447;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+#fb {
+    background-color: #3b5999;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+a.white {
+    text-decoration: none; color: #fff;
 }
 
 #buttons {
@@ -130,7 +173,6 @@ input {
 
 footer#footer {
     min-height:100px; background-color: #005EA1; color: white; text-align: center; padding-top: 40px;
-
 }
 
 /* Mobile viewport settings, windowssin puolella alle 840px ei pysy kasassa.  */
@@ -139,7 +181,7 @@ footer#footer {
     #header { min-height:60px;}
     #player-box { float:none; width:100vw; height:56.25vw; }
     #twitter-box { float:none; width:100%; }
-    #twitter-widget-0 { width: 100vw !important; }
+    #twitter-widget-1 { width: 100vw !important; }
     #results-box { float:none; width:100%; padding-left:0; min-height: 110px; }
     .dacast-payment { padding: 5px !important; }
     .dacast-payment .buynow, .dacast-payment .cart, .dacast-payment .creditcard, .dacast-payment .forgotpwd, .dacast-payment .login, .dacast-payment .methods, .dacast-payment .paypal, .dacast-payment .thankyou, .dacast-payment .viewerchallenge, .dacast-payment .viewercreate, .dacast-payment .vieweremail, .dacast-payment .wait {
