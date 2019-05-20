@@ -55,7 +55,6 @@ body {
     float:left; margin:0; width:64%; height:36vw;
 }
 
-<<<<<<< HEAD
 #results-box {
     float:right; width:36%; 
     /* height: 100vw;*/
@@ -112,25 +111,6 @@ a.white {
 .fb_iframe_widget {
     float: left;
     margin-right: 5px;    
-=======
-#twitter-box {
-    float:left; min-height:200px; margin:0; width:64%; margin-top: 5px;
-}
-
-#twitter-widget-1 {
-    width: 100% !important;
-}
-
-#results-box {
-    float:right; width:36%;
-    background-image: url('../img/results-placeholder.png');
-    background-size: contain;
-    background-repeat: no-repeat;
-}
-
-#results-content {
-    height: 100vw;
->>>>>>> master
 }
 
 #help-text {
