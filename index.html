@@ -19,6 +19,12 @@
 </head>
 
 <body>
+    <!--- FB feed -->
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.3&appId=2317199435268871">
+    </script>
+
     <div id="header">
         <div class="title-box">
         </div>
@@ -30,28 +36,54 @@
         </div>
 
         <div id="results-box">
-            <!--<div id="results-nav">    
-                <button id="buttons" onclick="var ifr=document.getElementsByClassName('results')[0]; ifr.src=ifr.src;">Results homepage</button>
-            </div>-->
             <div id="results-content">
-
-                <iframe class="results" width="200" height="300px" src="https://online.jukola.com/tulokset-new/fi/j2019_ju/"></iframe>
+                <h2 style="text-align: center">Results</h2>
+                <p style="text-align: center">There is nothing yet...</p>
             </div>
         </div>
 
         <div id="twitter-box">
-                <div id="info">
-                        <h4>How to purchase?</h4>
-                        <p>asdasdlkajsödlk aölskd jöalksdj ölakjsd ölkajsdöl kajdlsökja ölsdkj öalksjdöl kajsdölk jaölsdkj öalksjdl ökajsdöl kjasöldk jöalskjd </p>
-                        <h4>Speakers</h4>
-                        <p>aosidn aisdoi aosi oais oi oidoai oi </p>
-                        <h4> In case of issue</h4>
-                        <p>Contact to Lassi</p>
-                    </div>
-            <a class="twitter-timeline" data-theme="dark" data-tweet-limit="5" data-height="300" data-width="auto"
-                data-chrome="nofooter noborders" href="https://twitter.com/JukolanViesti?ref_src=twsrc%5Etfw">Tweets by
-                JukolanViesti</a>
-            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <div id="info">
+
+                <h3>How to purchase Jukola Live?</h3>
+
+                <p>- Live is online everywhere except Finland. You can&rsquo;t buy access in Finland.</p>
+
+                <p>- Jukola Live cost EUR 18. Choose the price from stream window. You get access both relays in 2019.
+                </p>
+
+                <p>- During purchasing, you create credentials which has access to player after payment.</p>
+
+                <p>- We accept major credit cards and PayPal.</p>
+
+                <p>- Enjoy!</p>
+
+                <h3>Issues?</h3>
+
+                <p>- Try to different browser and/or clean browser&rsquo;s cache. However, Google Chrome is best option.
+                </p>
+
+                <p>- Make sure that you are stable internet connection.</p>
+
+                <p>- For technical reason, the price is for 50 days. Don&rsquo;t worry about that. The schedule of live
+                    is published couple of days before event.</p>
+
+                <p>- Issues with payments: <a href="mailto:live.support@jukola.com"
+                        target="_top">live.support@jukola.com</a></p>
+
+
+            </div>
+            <div id="social">
+                <div class="fb-page" data-href="https://www.facebook.com/jukolanviesti/" data-tabs="timeline"
+                    data-width="" data-height="1050" data-small-header="false" data-adapt-container-width="true"
+                    data-hide-cover="false" data-show-facepile="true">
+                    <blockquote cite="https://www.facebook.com/jukolanviesti/" class="fb-xfbml-parse-ignore"><a
+                            href="https://www.facebook.com/jukolanviesti/">Jukolan viesti</a></blockquote>
+                </div>
+                <a class="twitter-timeline" data-theme="dark" data-tweet-limit="3" data-height="" data-width="auto"
+                    data-chrome="nofooter noborders" href="https://twitter.com/JukolanViesti?ref_src=twsrc%5Etfw">Tweets by JukolanViesti</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
         </div>
 
     </div>
@@ -68,10 +100,6 @@
                 height: 360
             })
         })
-        
-        window.setTimeout(function () {
-            let timelineWidget = document.getElementsByClassName("twitter-timeline")[0]['contentDocument']['body']['firstChild']
-            timelineWidget.style.maxWidth = 'none'}, 1000);
     </script>
 </body>
 

@@ -59,7 +59,8 @@ body {
 }
 
 #results-box {
-    float:right; width:36%; height: 100vw;
+    float:right; width:36%; 
+    /* height: 100vw;*/
     /*background:#1da1f3;*/
 }
 
@@ -74,17 +75,22 @@ body {
 }
 
 #info {
-    margin: 10px;
+    padding: 0 20px;
+    margin-bottom: 25px;
+}
+
+#social {
+    padding: 10px;
 }
 
 #twitter-box {
     float:left; min-height:200px; margin:0; width:64%;
     /*background:#1da1f3;*/
-    margin-top: 5px;
 }
 
-#twitter-widget-0 {
-    width: 100% !important;
+.fb_iframe_widget {
+    float: left;
+    margin-right: 5px;    
 }
 
 input {
@@ -118,6 +124,12 @@ footer#footer {
         padding: 10px !important;
     }
 }
+
+/* Some helper */
+
+
+
+
 
 /* Extra large screens */
 
