@@ -6,15 +6,24 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-136391624-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
+<<<<<<< HEAD
+=======
 
+>>>>>>> master
         function gtag() {
             dataLayer.push(arguments);
         }
         gtag('js', new Date());
+<<<<<<< HEAD
+        gtag('config', 'UA-136391624-1');
+    </script>
+    
+=======
 
         gtag('config', 'UA-136391624-1');
     </script>
 
+>>>>>>> master
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Jukola Live 2019 - view competition">
@@ -26,27 +35,38 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
+    <!--Dacast player-->
+    <script src="//player.dacast.com/js/player.js"></script>
+
 </head>
 
 <body>
+    <!--- FB feed -->
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.3&appId=2317199435268871">
+    </script>
+
     <div id="header">
         <div class="title-box">
         </div>
     </div>
     <div id="main">
         <div id="player-box">
-            <div id="youtubePlayer">
-                <iframe class="dacast-theo" width="966" height="543" src="https://www.youtube.com/embed/EnjiP7A0aAY"
-                    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen></iframe>
+            <div id="myPlayer">
             </div>
         </div>
 
         <div id="results-box">
             <div id="results-content">
+<<<<<<< HEAD
+
+                <h1>Jukola Live 2019</h1>
+=======
                 <div id="results-filter">
                     <div id="help-text">
                         <h1>Jukola Live 2019</h1>
+>>>>>>> master
                         <p>
                             Jukola is live on 15.-16.6.2019! </p>
                         <p>
@@ -55,7 +75,11 @@
                             Don't miss a single minute of the relay - the high quality stream keeps you on trail with
                             the best orienteers.
                         </p>
+<<<<<<< HEAD
+                        
+=======
                         <div id="social">
+>>>>>>> master
                             <button id="ig"><a class="white" href="https://www.instagram.com/jukolanviesti/" target="_blank">Follow
                                     us on Instagram</a></button>
                             <br>
@@ -64,17 +88,50 @@
                             <br>
                             <a href="https://twitter.com/JukolanViesti?ref_src=twsrc%5Etfw" class="twitter-follow-button"
                                 data-show-count="false">Follow @JukolanViesti</a>
+<<<<<<< HEAD
+
+                
+                    </div>
+=======
                         </div>
                     </div>
                 </div>
 
             </div>
+>>>>>>> master
         </div>
 
         <div id="twitter-box">
-            <a class="twitter-timeline" data-theme="dark" data-tweet-limit="5" data-height="300" data-width="auto"
-                data-chrome="nofooter noborders" href="https://twitter.com/JukolanViesti?ref_src=twsrc%5Etfw">Tweets by
-                JukolanViesti</a>
+            <div id="info">
+
+                <h3>How to purchase Jukola Live?</h3>
+
+                <p>- Live is online everywhere except Finland. You can&rsquo;t buy access in Finland.</p>
+
+                <p>- Jukola Live cost EUR 18. Choose the price from stream window. You get access both relays in 2019.
+                </p>
+
+                <p>- During purchasing, you create credentials which has access to player after payment.</p>
+
+                <p>- We accept major credit cards and PayPal.</p>
+
+                <p>- Enjoy!</p>
+
+                <h3>Issues?</h3>
+
+                <p>- Try to different browser and/or clean browser&rsquo;s cache. However, Google Chrome is best option.
+                </p>
+
+                <p>- Make sure that you are stable internet connection.</p>
+
+                <p>- For technical reason, the price is for 50 days. Don&rsquo;t worry about that. The schedule of live
+                    is published couple of days before event.</p>
+
+                <p>- Issues with payments: <a href="mailto:live.support@jukola.com"
+                        target="_top">live.support@jukola.com</a></p>
+
+
+            </div>
             <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
 
@@ -85,12 +142,22 @@
         </div>
     </footer>
     <script>
+<<<<<<< HEAD
+        window.addEventListener("load", function () {
+            var CONTENT_ID = "117048_c_496565"
+            var myPlayer = dacast(CONTENT_ID, 'myPlayer', {
+                width: 640,
+                height: 360
+            })
+        })
+=======
         window.setTimeout(function () {
             let timelineWidget = document.getElementsByClassName("twitter-timeline")[0]['contentDocument'][
                 'body'
             ]['firstChild']
             timelineWidget.style.maxWidth = 'none'
         }, 1000);
+>>>>>>> master
     </script>
 </body>
 
