@@ -21,6 +21,10 @@ body {
     display: none !important;
 }
 
+.inplayer-preview-footer a {
+    color: black !important;
+}
+
 /* HEADER */
 
 #header {
