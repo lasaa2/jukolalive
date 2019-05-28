@@ -67,6 +67,8 @@ body {
     margin-bottom: 25px;
 }
 
+/* Social links */
+
 #social {
     display: inline-flex;
     list-style-type: none;
@@ -89,42 +91,6 @@ body {
 #youtube {
     width: 28px;
     height: 28px;
-}
-
-#ig {
-    background-color: #ef9447;
-    font-size: 12px;
-    font-weight: 500;
-    border-radius: 3px;
-    cursor: pointer;
-    margin-bottom: 5px;
-}
-
-#fb {
-    background-color: #3b5999;
-    font-size: 12px;
-    font-weight: 500;
-    border-radius: 3px;
-    cursor: pointer;
-    margin-bottom: 5px;
-}
-
-a.white {
-    text-decoration: none; color: #fff;
-}
-
-#help-text {
-    margin: 1vw 2vw;
-    padding: 0 1vw 1vw;
-    border: 1px solid;
-    border-color: #005EA1;
-    background-color: rgba(255,255,255,0.5);
-}
-
-#buttons {
-    padding: 5px;
-    font-family:'Lato', sans-serif; color:#005EA1;
-    font-weight:400;
 }
 
 /* FOOTER */
