@@ -69,6 +69,26 @@ body {
 
 #social {
     display: inline-flex;
+    list-style-type: none;
+}
+
+#social li a {
+    margin-right: 8px;
+}
+
+#facebook {
+    width: 28px;
+    height: 28px;
+}
+
+#instagram {
+    width: 28px;
+    height: 28px;
+}
+
+#youtube {
+    width: 28px;
+    height: 28px;
 }
 
 #ig {
