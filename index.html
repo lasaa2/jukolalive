@@ -44,7 +44,8 @@
         <div id="results-box">
             <p id="pvm-text"> Jukola is live on 15.-16.6.2019! </p>
             <div id="results-content">
-                <h3>Results</h3>
+                <button id="home-button">Results home</button>
+                <iframe id="results-iframe" src="https://online.jukola.com/tulokset-new/en/j2019_ve/?embedded=1"></iframe>
             </div>
         </div>
 
@@ -109,6 +110,8 @@
 
                 <p>The schedule of Jukola Live broadcast is published on the Jukola Live website a couple of days before
                     the event.</p>
+                    <p>14:00 (UTC +3) Start of Venla Relay</p>
+                    <p>23:00 (UTC +3) Start of Jukola Relay</p>
 
                 <h4><strong>Need for further assistance?</strong></h4>
 
@@ -136,7 +139,11 @@
             © Kangasala SK
         </div>
     </footer>
-    <script>
+    <script>        
+        document.getElementById('home-button').addEventListener('click',function () {
+            let iframe = document.getElementById('results-iframe');
+            iframe.src = 'https://online.jukola.com/tulokset-new/en/j2019_ve/?embedded=1';
+        });
     </script>
 </body>
 

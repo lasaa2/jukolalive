@@ -55,9 +55,21 @@ body {
 }
 
 #results-content, .results {
-    height: 30vw;
-    border: 2px solid;
-    padding: 0 15px;
+    height: 63.5vh;
+    border: 1px solid;
+    padding: 0 2px;
+}
+
+#results-iframe {
+    width: 100%;
+    height: calc(100% - 21px);
+    border: none;
+}
+
+#home-button {
+    color: #005EA1;
+    font-size: 16px;
+    font-family: lato;
 }
 
 #twitter-box {
@@ -147,4 +159,13 @@ footer#footer {
 
 @media screen and (min-width: 2990px) {
     #header { min-height: 372px;}
+}
+
+/* results height */
+
+@media screen and (min-width: 1118px) {
+    #results-content, .results { 
+        height: 67.5vh;
+    }  
+
 }
