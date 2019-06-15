@@ -48,14 +48,14 @@ body {
 }
 
 #results-box {
-    float:right; width:36%; text-align: center;
+    float:right; width:36%; text-align: center; margin-top: 10px;
     /* background-color: #efeff2; */
     /* height: 100vw; */
     /*background:#1da1f3;*/
 }
 
 #results-content, .results {
-    height: 63.5vh;
+    height: 78.5vh;
     border: 1px solid;
     padding: 0 2px;
 }
@@ -66,7 +66,13 @@ body {
     border: none;
 }
 
-#home-button {
+#venla-button {
+    color: #005EA1;
+    font-size: 16px;
+    font-family: lato;
+}
+
+#jukola-button {
     color: #005EA1;
     font-size: 16px;
     font-family: lato;
@@ -165,7 +171,7 @@ footer#footer {
 
 @media screen and (min-width: 1118px) {
     #results-content, .results { 
-        height: 67.5vh;
+        height: 78.5vh;
     } 
 
 }

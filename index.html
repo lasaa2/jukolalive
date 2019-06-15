@@ -42,10 +42,10 @@
         </div>
 
         <div id="results-box">
-            <p id="pvm-text"> Jukola is live on 15.-16.6.2019! </p>
             <div id="results-content">
-                <button id="home-button">Results home</button>
-                <iframe id="results-iframe" src="https://online.jukola.com/tulokset-new/en/j2019_ve/?embedded=1"></iframe>
+                <button id="jukola-button">Jukola Results</button>
+                <button id="venla-button">Venla Results</button>
+                <iframe id="results-iframe" src="https://online.jukola.com/tulokset-new/en/j2019_ju/?embedded=1"></iframe>
             </div>
         </div>
 
@@ -125,6 +125,10 @@
 
                 <p>Make sure that your internet connection is stable.</p>
 
+                <p>If the Jukola Live page does not work or works too slowly, try watching the stream through this link: 
+                <a href="https://iframe.dacast.com/b/117048/c/496565" target="_blank">https://iframe.dacast.com/b/117048/c/496565 .</a>
+                Log in using the same credentials as in Jukola Live page.</p>
+
                 <p>In case of issues with payments, please contact&nbsp;<a href="mailto:helpdesk@inplayer.com">helpdesk@inplayer.com</a></p>
                 <p>In case of technical problems, feedback and suggestions for further development, please contact&nbsp;<a href="mailto:live.support@jukola.com">live.support@jukola.com</a></p>
 
@@ -145,9 +149,13 @@
         </div>
     </footer>
     <script>        
-        document.getElementById('home-button').addEventListener('click',function () {
+        document.getElementById('venla-button').addEventListener('click',function () {
             let iframe = document.getElementById('results-iframe');
             iframe.src = 'https://online.jukola.com/tulokset-new/en/j2019_ve/?embedded=1';
+        });
+        document.getElementById('jukola-button').addEventListener('click',function () {
+            let iframe = document.getElementById('results-iframe');
+            iframe.src = 'https://online.jukola.com/tulokset-new/en/j2019_ju/?embedded=1';
         });
     </script>
 </body>
