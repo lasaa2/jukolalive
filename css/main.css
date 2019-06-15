@@ -40,11 +40,11 @@ body {
 /* MAIN layout */
 
 #main {
-    background:#fff; overflow:hidden;
+    background:#fff; overflow:hidden; margin: 0 15px;
 }
 
 #player-box {
-    float:left; margin:0; width:64%; height:36vw;
+    float:left; margin:0; width:62%; height:34vw; margin-top:10px;
 }
 
 #results-box {
@@ -135,7 +135,7 @@ footer#footer {
 
 @media screen and (max-width:780px) {
     #header { min-height:60px;}
-    #player-box { float:none; width:100vw; height:56.25vw; }
+    #player-box { float:none; width:100%; height:54.25vw; }
     #twitter-box { float:none; width:100%; }
     #twitter-widget-1 { width: 100vw !important; }
     #results-box { float:none; width:100%; padding-left:0;}
@@ -166,6 +166,6 @@ footer#footer {
 @media screen and (min-width: 1118px) {
     #results-content, .results { 
         height: 67.5vh;
-    }  
+    } 
 
 }
